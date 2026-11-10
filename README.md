@@ -13,7 +13,7 @@ Ouvre `index.html` dans ton navigateur, ou utilise Live Server dans VS Code pour
 - `js/main.js` gère le menu mobile, met en évidence la section active dans la navigation, prépare un brouillon d’e-mail et actualise l’année du pied de page.
 - `assets/images/02.png` est le portrait de la présentation.
 - `assets/images/Yann_PFO.png` illustre l’expérience chez PFO Construction.
-- `assets/documents/CV_KOKYAJ.pdf` est le CV téléchargeable.
+- `assets/documents/CV_Yann_Developpeur_Analyste.pdf` est le CV téléchargeable.
 
 ### Modifier les couleurs des sections
 
